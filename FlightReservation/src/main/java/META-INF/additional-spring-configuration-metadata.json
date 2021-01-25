@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "io.aadeesh.itinerary.email.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'io.aadeesh.itinerary.email.subject'"
+  },
+  {
+    "name": "io.aadeesh.itinerary.dirpath",
+    "type": "java.lang.String",
+    "description": "A description for 'io.aadeesh.itinerary.dirpath'"
+  },
+  {
+    "name": "io.aadeesh.itinerary.email.body",
+    "type": "java.lang.String",
+    "description": "A description for 'io.aadeesh.itinerary.email.body'"
+  }
+]}
